@@ -5,3 +5,10 @@
 知道 不知道
 想做的事 不想做的事
 https://20240906book.github.io/09080909/
+  <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
+<link rel="stylesheet" href="style.css">
