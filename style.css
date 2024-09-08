@@ -2,18 +2,40 @@
   background: gold;
   text-align: center;
      
-      h2:blue;
-      h3:green;
-      h4:red;
-      h5:blue;
-      h6:pink;
-      h7:red;
-      h8:green;
-      h9:red;
+     
+     
+    
+      
+       
+    
 
      }
    h1 {
   color: green;
+}
+  h2 {
+  color:pink;
+}
+  h3{
+  color:blue;
+}
+  h4{
+  color: green;
+}
+  h5{
+  color:pink;
+}
+  h6 {
+  color: green;
+}
+  h7 {
+  color: red;
+}
+  h8 {
+  color: green;
+}
+  h9 {
+  color: red;
 }
 h1 {
   text-decoration: overline;
