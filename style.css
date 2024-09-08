@@ -1,7 +1,7 @@
  body{margin:0;
   background: gold;
   text-align: center;
-    h1: red;
+     
       h2:blue;
       h3:green;
       h4:red;
@@ -10,5 +10,7 @@
       h7:red;
       h8:green;
       h9:red;
-     <p style="background-color:Tomato;">
+   h1 {
+  color: green;
+}
      }
